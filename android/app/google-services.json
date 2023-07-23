@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518239516494",
+    "project_id": "manif-af07c",
+    "storage_bucket": "manif-af07c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518239516494:android:93a019b2103cb2cd84d01f",
+        "android_client_info": {
+          "package_name": "com.boc.manif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518239516494-pk07gcgaenckfc896g1dgd0qahola7mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcwv5JrQq7Wntzp4qKxMR1YqRfk5-kouo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518239516494-pk07gcgaenckfc896g1dgd0qahola7mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
